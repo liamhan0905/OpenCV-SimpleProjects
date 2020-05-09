@@ -1,6 +1,6 @@
 # OpenCV-SimpleProjects
 
-### DISCLOSURE: This project belongs to "Murtaza's Workshop - Robotics and AI"
+### DISCLOSURE: These projects belong to "Murtaza's Workshop - Robotics and AI"
 
 This repo consists of three simple projects that were found in "Learn Opencv in 3 hours with Python from Murtazaa's Workshop - Robotics and AI"
 
